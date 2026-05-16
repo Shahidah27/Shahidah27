@@ -31,6 +31,7 @@ When I'm not configuring data tables or wrestling with frontend layouts, I'm pro
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ### ⚙️ Tools of the Trade
+![BlueJ](https://img.shields.io/badge/BlueJ-1A62B3?style=for-the-badge&logo=java&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -39,8 +40,8 @@ When I'm not configuring data tables or wrestling with frontend layouts, I'm pro
 
 ## 📫 Let's Connect!
 
-* **LinkedIn:** [www.linkedin.com/in/shahidah-binti-mohammad-muhyeddin]
-* **Email:** [idah2667@gmail.com]
+* **LinkedIn:** www.linkedin.com/in/shahidah-binti-mohammad-muhyeddin
+* **Email:** idah2667@gmail.com
 
 ---
 

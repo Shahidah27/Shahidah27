@@ -10,7 +10,6 @@ When I'm not configuring data tables or wrestling with frontend layouts, I'm pro
 * 🔭 **Working on:** Mastering web structures and frontend design in my **CSC264** coursework.
 * 🎬 **Recent Win:** Successfully launched a fully functional desktop **Cinema Ticket System**!
 * 🧠 **Learning:** Advanced full-stack development, moving from desktop systems to dynamic web elements.
-* 💬 **Ask me about:** Why CRUD operations are a developer's best friend. 🛠️
 
 ---
 

@@ -1,33 +1,33 @@
-<!-- ✦ STARLIGHT DEVELOPER PROFILE ✦ -->
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B2A,35:21134D,70:6845A5,100:C8B6FF&text=Shahidah%20%E2%9C%A6&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=somewhere%20between%20logic%20and%20magic&descSize=15&descAlignY=58&animation=fadeIn&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B2A,35:21134D,70:6845A5,100:C8B6FF&text=Shahidah%20✦&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=somewhere%20between%20logic%20and%20magic&descSize=16&descAlignY=58&animation=fadeIn&section=header" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=C9B8FF&center=true&vCenter=true&width=550&lines=%E2%9C%A6+hello%2C+stranger+%E2%9C%A6;%E2%98%BE+welcome+to+my+little+universe;%E2%9C%A7+coding+under+the+stars;%E2%98%86+learning+one+bug+at+a+time" alt="Animated typing introduction"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=C9B8FF&center=true&vCenter=true&width=550&lines=✧+computer+science+student;✧+professional+bug+collector;✧+turning+coffee+into+code;✧+building+my+own+little+universe" alt="Typing animation"/>
-
-<br/>
-
-✦ ─────────────── ⋆⋅☆⋅⋆ ─────────────── ✦
+✦ ───────────── ⋆⋅☆⋅⋆ ───────────── ✦
 
 *☾ hello, stranger. welcome to my corner of the internet ☽*
 
+<img src="https://media.giphy.com/media/FlodpfQUBSp20/giphy.gif" width="180" alt="Sparkling stars animation"/>
+
 </div>
+
+---
 
 ## ✧ 01 — the girl behind the code
 
 ```text
-name       : Shahidah
-class      : Computer Science Student
-current xp : learning, building & breaking things
-alignment  : curious with a hint of chaos
-side quests: coffee ☕ | creative writing ✍️
-              debugging at questionable hours 🌙
+Name       : Shahidah
+Class      : Computer Science Student
+Current xp : learning, building & internship
+Alignment  : curious with a hint of chaos
+Side quests: coffee ☕ | creative writing ✍️
+
 ```
 
 Hiii! I'm Shahidah ♡
 
-I'm a tech student who likes making things work — from desktop applications and relational databases to websites that actually look nice.
+I'm a Computer Science student who likes making things work — from desktop applications and relational databases to websites that actually look nice.
 
 I enjoy the moment when a messy problem finally makes sense, when a database query works, or when a layout finally behaves. (Sometimes after 27 attempts. We don't talk about that.)
 
@@ -50,29 +50,25 @@ I enjoy the moment when a messy problem finally makes sense, when a database que
 
 *the spells I currently know how to cast*
 
-</div>
-
-<div align="center">
-
-**⌘ languages**
+### ⌘ languages
 
 ![Java](https://img.shields.io/badge/Java-17132B?style=for-the-badge\&logo=openjdk\&logoColor=C9B8FF)
 ![C++](https://img.shields.io/badge/C%2B%2B-17132B?style=for-the-badge\&logo=c%2B%2B\&logoColor=C9B8FF)
 ![VB.NET](https://img.shields.io/badge/VB.NET-17132B?style=for-the-badge\&logo=dotnet\&logoColor=C9B8FF)
 ![Racket](https://img.shields.io/badge/Racket-17132B?style=for-the-badge\&logo=racket\&logoColor=C9B8FF)
 
-**☄ web development**
+### ☄ web development
 
 ![HTML5](https://img.shields.io/badge/HTML5-17132B?style=for-the-badge\&logo=html5\&logoColor=FF9B70)
 ![CSS3](https://img.shields.io/badge/CSS3-17132B?style=for-the-badge\&logo=css3\&logoColor=9BBEFF)
 
-**✦ databases**
+### ✦ databases
 
 ![SQL](https://img.shields.io/badge/SQL-17132B?style=for-the-badge\&logo=mysql\&logoColor=9DDCFF)
 ![Microsoft Access](https://img.shields.io/badge/MS_Access-17132B?style=for-the-badge\&logo=microsoftaccess\&logoColor=FF9DAD)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-17132B?style=for-the-badge\&logo=dotnet\&logoColor=C9B8FF)
 
-**⚙ tools I work with**
+### ⚙ tools I work with
 
 ![BlueJ](https://img.shields.io/badge/BlueJ-17132B?style=for-the-badge\&logo=java\&logoColor=C9B8FF)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-17132B?style=for-the-badge\&logo=visualstudio\&logoColor=C9B8FF)
@@ -123,7 +119,7 @@ A relational database built around the process of renting and managing vehicles.
 
 ### ☾ 04. ReflexRush
 
-An educational reaction-time game concept designed to make practice more engaging.
+An educational reaction-time game designed to make practice more engaging.
 
 * ⚡ Quick-answer challenges
 * ⏱️ Time-based scoring
@@ -147,11 +143,11 @@ An educational reaction-time game concept designed to make practice more engagin
 
 *every contribution is another little star*
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0B0920&title_color=C9B8FF&icon_color=AB91FF&text_color=E8E0FF" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shahidah27&show_icons=true&hide_border=true&bg_color=0B0920&title_color=C9B8FF&icon_color=AB91FF&text_color=E8E0FF" height="165" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0B0920&title_color=C9B8FF&text_color=E8E0FF" height="165" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahidah27&layout=compact&hide_border=true&bg_color=0B0920&title_color=C9B8FF&text_color=E8E0FF" height="165" alt="Most used languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0B0920&color=C9B8FF&line=8C72DB&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahidah27&bg_color=0B0920&color=C9B8FF&line=8C72DB&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -164,11 +160,11 @@ An educational reaction-time game concept designed to make practice more engagin
 *the internet is big. let's make it a little smaller.*
 
 <a href="https://www.linkedin.com/in/shahidah-binti-mohammad-muhyeddin">
-<img src="https://img.shields.io/badge/LinkedIn-come_say_hi-8C72DB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/✦_LinkedIn-come_say_hi-21163B?style=for-the-badge&logo=linkedin&logoColor=C9B8FF" alt="Connect on LinkedIn"/>
 </a>
-&nbsp;
+
 <a href="mailto:idah2667@gmail.com">
-<img src="https://img.shields.io/badge/Email-send_me_a_message-B7A0F7?style=for-the-badge&logo=gmail&logoColor=17132B" alt="Email me"/>
+<img src="https://img.shields.io/badge/☾_Email-say_hello-21163B?style=for-the-badge&logo=gmail&logoColor=C9B8FF" alt="Email me"/>
 </a>
 
 <br/><br/>

@@ -147,7 +147,6 @@ An educational reaction-time game designed to make practice more engaging.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahidah27&layout=compact&hide_border=true&bg_color=0B0920&title_color=C9B8FF&text_color=E8E0FF" height="165" alt="Most used languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahidah27&bg_color=0B0920&color=C9B8FF&line=8C72DB&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
